@@ -1,0 +1,102 @@
+Year;Champion;Runner-Up;Cup_winner_code;Cup_runner_up_code
+2020;Tampa Bay Lightning;Dallas Stars;TBL;DAL
+2019;St. Louis Blues;Boston Bruins;STL;BOS
+2018;Washington Capitals;Vegas Golden Knights;WSH;VGK
+2017;Pittsburgh Penguins;Nashville Predators;PIT;NSH
+2016;Pittsburgh Penguins;San Jose Sharks;PIT;SJS
+2015;Chicago Blackhawks;Tampa Bay Lightning;CHI;TBL
+2014;Los Angeles Kings;New York Rangers;LAK;NYR
+2013;Chicago Blackhawks;Boston Bruins;CHI;BOS
+2012;Los Angeles Kings;New Jersey Devils;LAK;NJD
+2011;Boston Bruins;Vancouver Canucks;BOS;VAN
+2010;Chicago Blackhawks;Philadelphia Flyers;CHI;PHI
+2009;Pittsburgh Penguins;Detroit Red Wings;PIT;DET
+2008;Detroit Red Wings;Pittsburgh Penguins;DET;PIT
+2007;Anaheim Ducks;Ottawa Senators;ANA;OTT
+2006;Carolina Hurricanes;Edmonton Oilers;CAR;EDM
+2004;Tampa Bay Lightning;Calgary Flames;TBL;CGY
+2003;New Jersey Devils;Mighty Ducks of Anaheim;NJD;ANA
+2002;Detroit Red Wings;Carolina Hurricanes;DET;CAR
+2001;Colorado Avalanche;New Jersey Devils;COL;NJD
+2000;New Jersey Devils;Dallas Stars;NJD;DAL
+1999;Dallas Stars;Buffalo Sabres;DAL;BUF
+1998;Detroit Red Wings;Washington Capitals;DET;WSH
+1997;Detroit Red Wings;Philadelphia Flyers;DET;PHI
+1996;Colorado Avalanche;Florida Panthers;COL;FLA
+1995;New Jersey Devils;Detroit Red Wings;NJD;DET
+1994;New York Rangers;Vancouver Canucks;NYR;VAN
+1993;Montreal Canadiens;Los Angeles Kings;MTL;LAK
+1992;Pittsburgh Penguins;Chicago Blackhawks;PIT;CHI
+1991;Pittsburgh Penguins;Minnesota North Stars;PIT;MNS
+1990;Edmonton Oilers;Boston Bruins;EDM;BOS
+1989;Calgary Flames;Montreal Canadiens;CGY;MTL
+1988;Edmonton Oilers;Boston Bruins;EDM;BOS
+1987;Edmonton Oilers;Philadelphia Flyers;EDM;PHI
+1986;Montreal Canadiens;Calgary Flames;MTL;CGY
+1985;Edmonton Oilers;Philadelphia Flyers;EDM;PHI
+1984;Edmonton Oilers;New York Islanders;EDM;NYI
+1983;New York Islanders;Edmonton Oilers;NYI;EDM
+1982;New York Islanders;Vancouver Canucks;NYI;VAN
+1981;New York Islanders;Minnesota North Stars;NYI;MNS
+1980;New York Islanders;Philadelphia Flyers;NYI;PHI
+1979;Montreal Canadiens;New York Rangers;MTL;NYR
+1978;Montreal Canadiens;Boston Bruins;MTL;BOS
+1977;Montreal Canadiens;Boston Bruins;MTL;BOS
+1976;Montreal Canadiens;Philadelphia Flyers;MTL;PHI
+1975;Philadelphia Flyers;Buffalo Sabres;PHI;BUF
+1974;Philadelphia Flyers;Boston Bruins;PHI;BOS
+1973;Montreal Canadiens;Chicago Black Hawks;MTL;CHI
+1972;Boston Bruins;New York Rangers;BOS;NYR
+1971;Montreal Canadiens;Chicago Black Hawks;MTL;CHI
+1970;Boston Bruins;St. Louis Blues;BOS;STL
+1969;Montreal Canadiens;St. Louis Blues;MTL;STL
+1968;Montreal Canadiens;St. Louis Blues;MTL;STL
+1967;Toronto Maple Leafs;Montreal Canadiens;TOR;MTL
+1966;Montreal Canadiens;Detroit Red Wings;MTL;DET
+1965;Montreal Canadiens;Chicago Black Hawks;MTL;CHI
+1964;Toronto Maple Leafs;Detroit Red Wings;TOR;DET
+1963;Toronto Maple Leafs;Detroit Red Wings;TOR;DET
+1962;Toronto Maple Leafs;Chicago Black Hawks;TOR;CHI
+1961;Chicago Black Hawks;Detroit Red Wings;CHI;DET
+1960;Montreal Canadiens;Toronto Maple Leafs;MTL;TOR
+1959;Montreal Canadiens;Toronto Maple Leafs;MTL;TOR
+1958;Montreal Canadiens;Boston Bruins;MTL;BOS
+1957;Montreal Canadiens;Boston Bruins;MTL;BOS
+1956;Montreal Canadiens;Detroit Red Wings;MTL;DET
+1955;Detroit Red Wings;Montreal Canadiens;DET;MTL
+1954;Detroit Red Wings;Montreal Canadiens;DET;MTL
+1953;Montreal Canadiens;Boston Bruins;MTL;BOS
+1952;Detroit Red Wings;Montreal Canadiens;DET;MTL
+1951;Toronto Maple Leafs;Montreal Canadiens;TOR;MTL
+1950;Detroit Red Wings;New York Rangers;DET;NYR
+1949;Toronto Maple Leafs;Detroit Red Wings;TOR;DET
+1948;Toronto Maple Leafs;Detroit Red Wings;TOR;DET
+1947;Toronto Maple Leafs;Montreal Canadiens;TOR;MTL
+1946;Montreal Canadiens;Boston Bruins;MTL;BOS
+1945;Toronto Maple Leafs;Detroit Red Wings;TOR;DET
+1944;Montreal Canadiens;Chicago Black Hawks;MTL;CHI
+1943;Detroit Red Wings;Boston Bruins;DET;BOS
+1942;Toronto Maple Leafs;Detroit Red Wings;TOR;DET
+1941;Boston Bruins;Detroit Red Wings;BOS;DET
+1940;New York Rangers;Toronto Maple Leafs;NYR;TOR
+1939;Boston Bruins;Toronto Maple Leafs;BOS;TOR
+1938;Chicago Black Hawks;Toronto Maple Leafs;CHI;TOR
+1937;Detroit Red Wings;New York Rangers;DET;NYR
+1936;Detroit Red Wings;Toronto Maple Leafs;DET;TOR
+1935;Montreal Maroons;Toronto Maple Leafs;MMR;TOR
+1934;Chicago Black Hawks;Detroit Red Wings;CHI;DET
+1933;New York Rangers;Toronto Maple Leafs;NYR;TOR
+1932;Toronto Maple Leafs;New York Rangers;TOR;NYR
+1931;Montreal Canadiens;Chicago Black Hawks;MTL;CHI
+1930;Montreal Canadiens;Boston Bruins;MTL;BOS
+1929;Boston Bruins;New York Rangers;BOS;NYR
+1928;New York Rangers;Montreal Maroons;NYR;MMR
+1927;Ottawa Senators;Boston Bruins;SEN;BOS
+1926;Montreal Maroons;Ottawa Senators;MMR;SEN
+1925;Montreal Canadiens;Hamilton Tigers;MTL;HAM
+1924;Montreal Canadiens;Ottawa Senators;MTL;SEN
+1923;Ottawa Senators;Montreal Canadiens;SEN;MTL
+1922;Toronto St. Patricks;Ottawa Senators;TSP;SEN
+1921;Ottawa Senators;Toronto St. Patricks;SEN;TSP
+1919;Montreal Canadiens;Ottawa Senators;MTL;SEN
+1918;Toronto Arenas;Montreal Canadiens;TAN;MTL

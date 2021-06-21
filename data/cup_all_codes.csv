@@ -1,0 +1,112 @@
+,Unnamed: 0,Year,Lg,Champion,Runner-Up,Conn Smythe,Cup_winner_code,Cup_runner_up_code
+0,0,2021,NHL,Playoffs begin April 2021,,,,
+1,1,2020,NHL,Tampa Bay Lightning,Dallas Stars,Victor Hedman,TBL,DAL
+2,2,2019,NHL,St. Louis Blues,Boston Bruins,Ryan O'Reilly,STL,BOS
+3,3,2018,NHL,Washington Capitals,Vegas Golden Knights,Alex Ovechkin,WSH,
+4,4,2017,NHL,Pittsburgh Penguins,Nashville Predators,Sidney Crosby,PIT,
+5,5,2016,NHL,Pittsburgh Penguins,San Jose Sharks,Sidney Crosby,PIT,
+6,6,2015,NHL,Chicago Blackhawks,Tampa Bay Lightning,Duncan Keith,CHI,TBL
+7,7,2014,NHL,Los Angeles Kings,New York Rangers,Justin Williams,LAK,NYR
+8,8,2013,NHL,Chicago Blackhawks,Boston Bruins,Patrick Kane,CHI,BOS
+9,9,2012,NHL,Los Angeles Kings,New Jersey Devils,Jonathan Quick,LAK,NJD
+10,10,2011,NHL,Boston Bruins,Vancouver Canucks,Tim Thomas,BOS,
+11,11,2010,NHL,Chicago Blackhawks,Philadelphia Flyers,Jonathan Toews,CHI,PHI
+12,12,2009,NHL,Pittsburgh Penguins,Detroit Red Wings,Evgeni Malkin,PIT,DET
+13,13,2008,NHL,Detroit Red Wings,Pittsburgh Penguins,Henrik Zetterberg,DET,PIT
+14,14,2007,NHL,Anaheim Ducks,Ottawa Senators,Scott Niedermayer,ANA,OTT
+15,15,2006,NHL,Carolina Hurricanes,Edmonton Oilers,Cam Ward,CAR,EDM
+16,16,2005,NHL,Season canceled,,,,
+17,17,2004,NHL,Tampa Bay Lightning,Calgary Flames,Brad Richards,TBL,CGY
+18,18,2003,NHL,New Jersey Devils,Mighty Ducks of Anaheim,Jean-Sebastien Giguere,NJD,
+19,19,2002,NHL,Detroit Red Wings,Carolina Hurricanes,Nicklas Lidstrom,DET,CAR
+20,20,2001,NHL,Colorado Avalanche,New Jersey Devils,Patrick Roy,COL,NJD
+21,21,2000,NHL,New Jersey Devils,Dallas Stars,Scott Stevens,NJD,DAL
+22,22,1999,NHL,Dallas Stars,Buffalo Sabres,Joe Nieuwendyk,DAL,
+23,23,1998,NHL,Detroit Red Wings,Washington Capitals,Steve Yzerman,DET,WSH
+24,24,1997,NHL,Detroit Red Wings,Philadelphia Flyers,Mike Vernon,DET,PHI
+25,25,1996,NHL,Colorado Avalanche,Florida Panthers,Joe Sakic,COL,
+26,26,1995,NHL,New Jersey Devils,Detroit Red Wings,Claude Lemieux,NJD,DET
+27,27,1994,NHL,New York Rangers,Vancouver Canucks,Brian Leetch,NYR,
+28,28,1993,NHL,Montreal Canadiens,Los Angeles Kings,Patrick Roy,MTL,LAK
+29,29,1992,NHL,Pittsburgh Penguins,Chicago Blackhawks,Mario Lemieux,PIT,CHI
+30,30,1991,NHL,Pittsburgh Penguins,Minnesota North Stars,Mario Lemieux,PIT,
+31,31,1990,NHL,Edmonton Oilers,Boston Bruins,Bill Ranford,EDM,BOS
+32,32,1989,NHL,Calgary Flames,Montreal Canadiens,Al MacInnis,CGY,MTL
+33,33,1988,NHL,Edmonton Oilers,Boston Bruins,Wayne Gretzky,EDM,BOS
+34,34,1987,NHL,Edmonton Oilers,Philadelphia Flyers,Ron Hextall,EDM,PHI
+35,35,1986,NHL,Montreal Canadiens,Calgary Flames,Patrick Roy,MTL,CGY
+36,36,1985,NHL,Edmonton Oilers,Philadelphia Flyers,Wayne Gretzky,EDM,PHI
+37,37,1984,NHL,Edmonton Oilers,New York Islanders,Mark Messier,EDM,NYI
+38,38,1983,NHL,New York Islanders,Edmonton Oilers,Billy Smith,NYI,EDM
+39,39,1982,NHL,New York Islanders,Vancouver Canucks,Mike Bossy,NYI,
+40,40,1981,NHL,New York Islanders,Minnesota North Stars,Butch Goring,NYI,
+41,41,1980,NHL,New York Islanders,Philadelphia Flyers,Bryan Trottier,NYI,PHI
+42,42,1979,NHL,Montreal Canadiens,New York Rangers,Bob Gainey,MTL,NYR
+43,43,1979,WHA,Winnipeg Jets,Edmonton Oilers,,,EDM
+44,44,1978,NHL,Montreal Canadiens,Boston Bruins,Larry Robinson,MTL,BOS
+45,45,1978,WHA,Winnipeg Jets,New England Whalers,,,
+46,46,1977,NHL,Montreal Canadiens,Boston Bruins,Guy Lafleur,MTL,BOS
+47,47,1977,WHA,Quebec Nordiques,Winnipeg Jets,,,
+48,48,1976,NHL,Montreal Canadiens,Philadelphia Flyers,Reggie Leach,MTL,PHI
+49,49,1976,WHA,Winnipeg Jets,Houston Aeros,,,
+50,50,1975,NHL,Philadelphia Flyers,Buffalo Sabres,Bernie Parent,PHI,
+51,51,1975,WHA,Houston Aeros,Quebec Nordiques,,,
+52,52,1974,NHL,Philadelphia Flyers,Boston Bruins,Bernie Parent,PHI,BOS
+53,53,1974,WHA,Houston Aeros,Chicago Cougars,,,
+54,54,1973,NHL,Montreal Canadiens,Chicago Black Hawks,Yvan Cournoyer,MTL,
+55,55,1973,WHA,New England Whalers,Winnipeg Jets,,,
+56,56,1972,NHL,Boston Bruins,New York Rangers,Bobby Orr,BOS,NYR
+57,57,1971,NHL,Montreal Canadiens,Chicago Black Hawks,Ken Dryden,MTL,
+58,58,1970,NHL,Boston Bruins,St. Louis Blues,Bobby Orr,BOS,STL
+59,59,1969,NHL,Montreal Canadiens,St. Louis Blues,Serge Savard,MTL,STL
+60,60,1968,NHL,Montreal Canadiens,St. Louis Blues,Glenn Hall,MTL,STL
+61,61,1967,NHL,Toronto Maple Leafs,Montreal Canadiens,Dave Keon,TOR,MTL
+62,62,1966,NHL,Montreal Canadiens,Detroit Red Wings,Roger Crozier,MTL,DET
+63,63,1965,NHL,Montreal Canadiens,Chicago Black Hawks,Jean Beliveau,MTL,
+64,64,1964,NHL,Toronto Maple Leafs,Detroit Red Wings,,TOR,DET
+65,65,1963,NHL,Toronto Maple Leafs,Detroit Red Wings,,TOR,DET
+66,66,1962,NHL,Toronto Maple Leafs,Chicago Black Hawks,,TOR,
+67,67,1961,NHL,Chicago Black Hawks,Detroit Red Wings,,,DET
+68,68,1960,NHL,Montreal Canadiens,Toronto Maple Leafs,,MTL,TOR
+69,69,1959,NHL,Montreal Canadiens,Toronto Maple Leafs,,MTL,TOR
+70,70,1958,NHL,Montreal Canadiens,Boston Bruins,,MTL,BOS
+71,71,1957,NHL,Montreal Canadiens,Boston Bruins,,MTL,BOS
+72,72,1956,NHL,Montreal Canadiens,Detroit Red Wings,,MTL,DET
+73,73,1955,NHL,Detroit Red Wings,Montreal Canadiens,,DET,MTL
+74,74,1954,NHL,Detroit Red Wings,Montreal Canadiens,,DET,MTL
+75,75,1953,NHL,Montreal Canadiens,Boston Bruins,,MTL,BOS
+76,76,1952,NHL,Detroit Red Wings,Montreal Canadiens,,DET,MTL
+77,77,1951,NHL,Toronto Maple Leafs,Montreal Canadiens,,TOR,MTL
+78,78,1950,NHL,Detroit Red Wings,New York Rangers,,DET,NYR
+79,79,1949,NHL,Toronto Maple Leafs,Detroit Red Wings,,TOR,DET
+80,80,1948,NHL,Toronto Maple Leafs,Detroit Red Wings,,TOR,DET
+81,81,1947,NHL,Toronto Maple Leafs,Montreal Canadiens,,TOR,MTL
+82,82,1946,NHL,Montreal Canadiens,Boston Bruins,,MTL,BOS
+83,83,1945,NHL,Toronto Maple Leafs,Detroit Red Wings,,TOR,DET
+84,84,1944,NHL,Montreal Canadiens,Chicago Black Hawks,,MTL,
+85,85,1943,NHL,Detroit Red Wings,Boston Bruins,,DET,BOS
+86,86,1942,NHL,Toronto Maple Leafs,Detroit Red Wings,,TOR,DET
+87,87,1941,NHL,Boston Bruins,Detroit Red Wings,,BOS,DET
+88,88,1940,NHL,New York Rangers,Toronto Maple Leafs,,NYR,TOR
+89,89,1939,NHL,Boston Bruins,Toronto Maple Leafs,,BOS,TOR
+90,90,1938,NHL,Chicago Black Hawks,Toronto Maple Leafs,,,TOR
+91,91,1937,NHL,Detroit Red Wings,New York Rangers,,DET,NYR
+92,92,1936,NHL,Detroit Red Wings,Toronto Maple Leafs,,DET,TOR
+93,93,1935,NHL,Montreal Maroons,Toronto Maple Leafs,,MMR,TOR
+94,94,1934,NHL,Chicago Black Hawks,Detroit Red Wings,,,DET
+95,95,1933,NHL,New York Rangers,Toronto Maple Leafs,,NYR,TOR
+96,96,1932,NHL,Toronto Maple Leafs,New York Rangers,,TOR,NYR
+97,97,1931,NHL,Montreal Canadiens,Chicago Black Hawks,,MTL,
+98,98,1930,NHL,Montreal Canadiens,Boston Bruins,,MTL,BOS
+99,99,1929,NHL,Boston Bruins,New York Rangers,,BOS,NYR
+100,100,1928,NHL,New York Rangers,Montreal Maroons,,NYR,MMR
+101,101,1927,NHL,Ottawa Senators,Boston Bruins,,OTT,BOS
+102,102,1926,NHL,Montreal Maroons,Ottawa Senators,,MMR,OTT
+103,103,1925,NHL,Montreal Canadiens,Hamilton Tigers,,MTL,
+104,104,1924,NHL,Montreal Canadiens,Ottawa Senators,,MTL,OTT
+105,105,1923,NHL,Ottawa Senators,Montreal Canadiens,,OTT,MTL
+106,106,1922,NHL,Toronto St. Patricks,Ottawa Senators,,TSP,OTT
+107,107,1921,NHL,Ottawa Senators,Toronto St. Patricks,,OTT,TSP
+108,108,1920,NHL,"No NHL playoffs.Ottawa represented NHL,def. PCHA champ Seattle for Stanley Cup.",,,,
+109,109,1919,NHL,Montreal Canadiens,Ottawa Senators,,MTL,OTT
+110,110,1918,NHL,Toronto Arenas,Montreal Canadiens,,TAN,MTL
